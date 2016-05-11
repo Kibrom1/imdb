@@ -1,18 +1,5 @@
 # imdb
--Click on add movie to add new movie which will open a form where we can add movie, 
-list of artists and list of directors.
-
--Click on search movie which will open a page where you can search movie using different crieteries 
-as specified on point 2.
-
--Click on edit button on movie table which will open a form where you can edit movie.
-
--Click on delete button on movie table which will delete the movie table.
-
--Click on edit button on artist table which will open form to edit artist.
-
--CLick on delete button on artitst table which will delte the artist.
-
--Click on edit button on director table which will open form to edit director.
-
--Click on delete button on director table which will delete corresponding director.
+1. Click the add button on the movie and will open a form to add movie, list of actors and list of directors.
+2. TO Search a movie click on the search button and you can insert different criteria then you can search accordingly.
+3. Click edit to edit the existing movie.
+4. click delete to delete a movie or its respective director or actor.
