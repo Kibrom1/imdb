@@ -50,4 +50,10 @@ public class Director {
 		this.movies = movies;
 	}
 
+	public void setId(int id) {
+
+		this.directorId = id;
+
+	}
+
 }

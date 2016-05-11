@@ -37,7 +37,9 @@ public class Actor {
 		this.biography = bio;
 
 	}
-
+public void setId(int id){
+	this.actorId = id;
+}
 	public int getActorId() {
 		return actorId;
 	}

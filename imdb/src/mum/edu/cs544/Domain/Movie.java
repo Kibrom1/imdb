@@ -129,4 +129,9 @@ public class Movie {
 		this.comments = comments;
 	}
 
+	public void setId(int id) {
+		this.movieId = id;
+
+	}
+
 }
