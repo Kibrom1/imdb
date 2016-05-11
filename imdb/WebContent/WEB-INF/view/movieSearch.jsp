@@ -34,19 +34,6 @@
 		</table>
 	</form>
 	<hr>
-	<h3>Search Movie By Artist Name</h3>
-	<form method="get" action="searchByActor">
-		<table>
-			<tr>
-				<td>Enter Name</td>
-				<td><input type="text" name="actor"></td>
-				<td><input type="submit" value="Search"></td>
-			</tr>
-
-		</table>
-	</form>
-	<hr>
-
 	<h3>Search Movie By Director Name</h3>
 	<form method="get" action="searchByDirector">
 		<table>
@@ -59,6 +46,30 @@
 		</table>
 	</form>
 	<hr>
+	<h3>Search Movie By Actor Name</h3>
+	<form method="get" action="searchActor">
+		<table>
+			<tr>
+				<td>Enter Name</td>
+				<td><input type="text" name="actor"></td>
+				<td><input type="submit" value="Search"></td>
+			</tr>
+
+		</table>
+	</form>
+	<hr>
+
+	<h3>Search Movie By Genere</h3>
+	<form method="get" action="searchByGenre">
+		<table>
+			<tr>
+				<td>Enter Genere</td>
+				<td><input type="text" name="gener"></td>
+				<td><input type="submit" value="Search"></td>
+			</tr>
+
+		</table>
+	</form>
 	<hr>
 	<h3>Search Movie By Rating</h3>
 	<form method="get" action="searchByRating">
